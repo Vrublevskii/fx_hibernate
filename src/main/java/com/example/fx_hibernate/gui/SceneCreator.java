@@ -20,7 +20,7 @@ public class SceneCreator {
 
     private VBox vBox;
     private Map<String, String> result;
-
+//
     public Scene getScene() {
         AnchorPane anchorPane = new AnchorPane();
         ObservableList<String> values = ValuesList.getObservableList();
